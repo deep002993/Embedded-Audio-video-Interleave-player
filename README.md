@@ -24,14 +24,8 @@ License
 This project is licensed under the MIT License.
 
 
-![1715459272046](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/8955c853-3e57-434a-973a-591e5e8e3e13)
-
-
-![1715459272059](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/c62c98ce-c468-4994-8a05-fa3cc3712a43)
-
-
-![1715459272088](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/241ce99e-1ef1-4bdd-a967-f77f5132b943)
-
-
-![1715459272073](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/fd8c951b-1137-4840-bf27-7400c84d16e0)
+![PXL_20240512_160814109](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/da6228b7-8e43-4f45-828b-d756cb1f21f9)
+![IMG_20240512_185004](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/172b1174-85e8-4fc8-b03b-ed64f93486fc)
+![IMG_20240512_185825](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/94cc6f5e-00ba-4cc6-b2c9-5da61e132a67)
+![PXL_20240512_160313428](https://github.com/deep002993/Embedded-Audio-video-Interleave-player/assets/36511732/4c95bde6-c2f9-447c-ac51-05aa84e92447)
 
